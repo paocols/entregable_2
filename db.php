@@ -1,6 +1,6 @@
 <?php
 $host = "entregable2.mysql.database.azure.com";
-$usuario = "Admi";
+$usuario = "Admi@entregable2";
 $contraseña = "entregable.2";  // Por defecto en XAMPP, sin contraseña
 $baseDeDatos = "matricula1";
 
