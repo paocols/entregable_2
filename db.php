@@ -1,7 +1,7 @@
 <?php
-$host = "entregable2.mysql.database.azure.com";
-$usuario = "Admi";
-$contraseña = "entregable.2";  // Por defecto en XAMPP, sin contraseña
+$host = "localhost";
+$usuario = "root";
+$contraseña = "";  // Por defecto en XAMPP, sin contraseña
 $baseDeDatos = "matricula1";
 
 // Añadir más información de depuración
